@@ -1,1 +1,1 @@
-export const baseURL = 'http://localhost/octimine-library/public/'
+export const baseURL = 'your api url'
